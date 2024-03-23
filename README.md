@@ -20,6 +20,9 @@ Note: <br>
 This script supports only English alphabet letters (A-Z and a-z). Other characters (such as punctuation, digits, and spaces) remain unchanged during encryption and decryption. <br>
 The key value specifies the number of positions each letter should be shifted. Positive values shift letters to the right (forward in the alphabet), while negative values shift letters to the left (backward in the alphabet).<br>
 
+Author: <br>
+Shamshad Shaikh
+
 
   
 
